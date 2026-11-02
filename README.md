@@ -1,6 +1,6 @@
 # Movie Watchlist API
 
-A RESTful backend API for managing a movie watchlist. You can add, view, update and delete movies. Built to practise the flow **Client → Route → Controller → Data → Response**.
+A backend API for managing a movie watchlist. You can add, view, update and delete movies. Built to practise the flow **Client → Route → Controller → Data → Response**.
 
 ## Technologies Used
 - Node.js
